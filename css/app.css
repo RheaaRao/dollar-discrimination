@@ -1,0 +1,71 @@
+.title {
+	font-family: playfairdisplay;
+	font-size: 60px;
+}
+
+.boxed {
+	border: 0.5px solid #0B447B;
+	background-color: #ADD8E6;
+	width: 60%;
+   padding: 10px;
+  margin: 0 auto;
+}
+
+p {
+	font-family: alice;
+	font-size: 18px;
+	color: #2D2417;
+}
+
+h1 {
+	font-family: 'PT serif', serif;
+	color: #0B447B;
+	font-weight: 2px;
+}
+
+h2 {
+	font-family: 'PT serif';
+	color: #0B447B;
+	font-weight: 
+}
+
+h4 {
+	font-family: 'PT serif';
+	font-color: #0B447B;
+	font-size: 22px;
+}
+
+h6 {
+	font-family: 'PT serif';
+	color: #2D2417;
+	font-style: italic;
+}
+
+blockquote {
+	font-family: 'PT serif';
+	color: #0B447B;
+	font-size: 20px;
+}
+
+h4 {
+	font-family: 'PT serif';
+	color: #2D2417;
+}
+h5 {
+	font-family: alice;
+	color: #496595;
+	font-style: italic;
+}
+
+#gender {
+	float:left;
+	width: 40%;
+	height:40%;
+}
+
+
+
+cite {
+	font-family: 'PT serif';
+	font-size: 16px;
+}
